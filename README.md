@@ -1,2 +1,2 @@
 # lucisa
-interpreter programming language
+Interpreter for Lucisa programming language
